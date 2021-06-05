@@ -10,9 +10,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mdcrab02/Qiskit-Tutorial-Visualization">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Qiskit Visualization Tutorials</h3>
 
