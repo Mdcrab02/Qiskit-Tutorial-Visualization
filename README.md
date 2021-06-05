@@ -48,7 +48,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -99,23 +98,14 @@ I normally use `pip` to install packages in Anaconda environments to avoid issue
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/issues) for a list of proposed features (and known issues).
+Usage is simple.  Once you've cloned the repository and installed the required packages, run the cells!
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. If you want to contribute to this repo or fork it to make your own, feel free!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -135,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@TheDataPeasant](https://twitter.com/TheDataPeasant)
+Michael Crabtree - [@TheDataPeasant](https://twitter.com/TheDataPeasant) - [LinkedIN](https://www.linkedin.com/in/mikecrabtree2/)
 
 Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https://github.com/mdcrab02/Qiskit-Tutorial-Visualization)
 
@@ -145,8 +135,7 @@ Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https:
 ## Acknowledgements
 
 * [Othneildrew's README Template](https://github.com/othneildrew/Best-README-Template)
-* []()
-* []()
+* [Qiskit Tutorials](https://qiskit.org/documentation/tutorials.html)
 
 
 
