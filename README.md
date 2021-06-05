@@ -7,8 +7,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -175,4 +173,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/mdcrab02/Qiskit-Tutorial-Visualization.svg?style=for-the-badge
 [license-url]: https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mdcrab02
+[linkedin-url]: https://linkedin.com/in/mikecrabtree2
