@@ -20,14 +20,11 @@
     This repository contains Jupyter notebooks that demonstrate the quantum circuit visualization capabilities available within Qiskit.
 	This builds upon my other tutorials
 	<a href="https://github.com/mdcrab02/Qiskit-Introduction">Introduction to Qiskit</a>
-	Thanks to Othneildrew for the README template!
-	
 	<br />
     <br />
     <a href="https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/issues">Report Bug</a>
     ·
     <a href="https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/issues">Request Feature</a>
-	
   </p>
 </p>
 
@@ -153,7 +150,7 @@ Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [Othneildrew's README Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/)
 * []()
 * []()
 
