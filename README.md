@@ -23,11 +23,13 @@
 	<a href="https://github.com/mdcrab02/Qiskit-Introduction">Introduction to Qiskit</a>
 	
 	Thanks to Othneildrew for the README template!
-
+	
+	<br />
     <br />
     <a href="https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/issues">Report Bug</a>
     ·
     <a href="https://github.com/mdcrab02/Qiskit-Tutorial-Visualization/issues">Request Feature</a>
+	
   </p>
 </p>
 
