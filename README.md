@@ -136,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@TheDataPeasant](https://twitter.com/TheDataPeasant) - Mike.D.Crabtree@gmail.com
+Your Name - [@TheDataPeasant](https://twitter.com/TheDataPeasant)
 
 Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https://github.com/mdcrab02/Qiskit-Tutorial-Visualization)
 
