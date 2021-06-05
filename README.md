@@ -18,7 +18,7 @@
 
   <p align="center">
     This repository contains Jupyter notebooks that demonstrate the quantum circuit visualization capabilities available within Qiskit.
-	This builds upon my other tutorials
+	This builds upon my other repository for Qiskit tutorials that outline my 
 	<a href="https://github.com/mdcrab02/Qiskit-Introduction">Introduction to Qiskit</a>
 	<br />
     <br />
@@ -61,19 +61,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`mdcrab02`, `Qiskit-Tutorial-Visualization`, `twitter_handle`, `email`, `project_title`, `project_description`
+`mdcrab02`, `Qiskit-Tutorial-Visualization`, `TheDataPeasant`, `Mike.D.Crabtree@gmail.com`, `project_title`, `project_description`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [Qiskit](https://qiskit.org/)
 
 
 <!-- GETTING STARTED -->
@@ -141,7 +136,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@TheDataPeasant](https://twitter.com/TheDataPeasant) - Mike.D.Crabtree@gmail.com
 
 Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https://github.com/mdcrab02/Qiskit-Tutorial-Visualization)
 
@@ -150,7 +145,7 @@ Project Link: [https://github.com/mdcrab02/Qiskit-Tutorial-Visualization](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Othneildrew's README Template](https://raw.githubusercontent.com/othneildrew/Best-README-Template/)
+* [Othneildrew's README Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
