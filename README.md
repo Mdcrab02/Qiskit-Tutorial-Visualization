@@ -61,13 +61,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`mdcrab02`, `Qiskit-Tutorial-Visualization`, `TheDataPeasant`, `Mike.D.Crabtree@gmail.com`, `project_title`, `project_description`
+This project is my repository for both learning and showing how to do all sorts of quantum visualizations using `qiskit` and `qiskit[visualization`.  It's my experience that it's easier to understand new concepts by visualizing the circuit itself and the resulting changes.
 
 
 ### Built With
 
+* [Anaconda](https://www.anaconda.com/)
 * [Qiskit](https://qiskit.org/)
 
 
@@ -78,10 +77,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+I normally use `pip` to install packages in Anaconda environments to avoid issues with the GUI or other strange things when using Windows.  The usage is like the following:
+* qiskit
   ```sh
-  npm install npm@latest -g
+  pip install qiskit
   ```
 
 ### Installation
@@ -90,9 +89,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/mdcrab02/Qiskit-Tutorial-Visualization.git
    ```
-2. Install NPM packages
+2. Install the required python packages
    ```sh
-   npm install
+   pip install numpy scipy pandas matplotlib seaborn qiskit qiskit[visualization] jupyter jupyterlab
    ```
 
 
